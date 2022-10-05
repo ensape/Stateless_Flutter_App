@@ -1,16 +1,28 @@
-# stateles_app
 
-A new Flutter project.
+Numero de Practica:  06
+Nombre de Practica: Stateless_App
 
-## Getting Started
+Instituto: Universidad Tecnológica de Xicotepec de Juárez 
+Carrera: Ingeniería Gestión y Desarrollo de Software Área Desarrollo de Software en Multiplataforma 
+Materia: Desarrollo Móvil Integral 
+Docente: M.T.I Marco Antonio Ramírez Hernández 
+Alumno: Enrique Santiago Peralta
 
-This project is a starting point for a Flutter application.
+Objetivo de Practica: Comprendiendo que los widgets stateless heredan la clase StatelessWidget,
+utilizando Icon y Text como estático, que no guardan ningún tipo de estado, no tienen valores que
+pueden cambiar, solo se muestra en pantalla 
 
-A few resources to get you started if this is your first Flutter project:
+Herramientas:
+•	Visual Studio Code 
+•	Extensiones de Visual Studio Code: 
+    o	Dart
+    o	Flutter 
+    o	Awesome Flutter Snippets
+    o	Flutter Widget Snippets
+•	Flutter SDK
+•	DevTools
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
