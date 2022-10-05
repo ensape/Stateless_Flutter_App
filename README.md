@@ -2,7 +2,7 @@
 <p>
 
 #
-# Practica
+ Practica
 Numero de Practica:  06.
 
 Nombre de Practica: Stateless_App.
