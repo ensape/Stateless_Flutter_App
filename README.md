@@ -1,5 +1,5 @@
 
-## Numero de Practica:  06.
+# Numero de Practica:  06.
 
 Nombre de Practica: Stateless_App.
 
