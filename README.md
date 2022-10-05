@@ -1,11 +1,11 @@
 
-Numero de Practica:  06.
+## Numero de Practica:  06.
 
 Nombre de Practica: Stateless_App.
 
 Instituto: Universidad Tecnológica de Xicotepec de Juárez.
 
-Carrera: Ingeniería Gestión y Desarrollo de Software Área Desarrollo de Software en Multiplataforma.
+Carrera: Ingeniería Desarrollo y Gestión de Software Área Desarrollo de Software en Multiplataforma.
 
 Materia: Desarrollo Móvil Integral.
 
