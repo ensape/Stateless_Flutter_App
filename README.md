@@ -24,12 +24,15 @@ Comprendiendo que los widgets stateless heredan la clase StatelessWidget, utiliz
 
 # Herramientas:
 •	Visual Studio Code 
+
 •	Extensiones de Visual Studio Code: 
-    o	Dart
-    o	Flutter 
-    o	Awesome Flutter Snippets
-    o	Flutter Widget Snippets
+	Dart
+	Flutter 
+	Awesome Flutter Snippets
+	Flutter Widget Snippets
+
 •	Flutter SDK
+
 •	DevTools
 
 
